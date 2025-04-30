@@ -1,6 +1,6 @@
-# Smart LED Motion Detector
+# Smart LED Motion Detector 📦
 
-A simple Arduino-based motion detection system that automatically turns on an LED when motion is detected within a specified range.
+An Arduino-based motion detection system that automatically turns on an LED when motion is detected within a specified range (30 cm). The LED stays on for 5 seconds before turning off automatically. Ideal for smart lighting applications in dark hallways, entrances, or bathrooms.
 
 ## Overview
 
